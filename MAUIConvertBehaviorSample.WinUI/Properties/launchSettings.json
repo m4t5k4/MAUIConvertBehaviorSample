@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "MAUIConvertBehaviorSample.WinUI": {
+      "commandName": "MsixPackage",
+      "nativeDebugging": false
+    }
+  }
+}
